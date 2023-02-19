@@ -8,7 +8,7 @@
 {
     padding-left: 10%;
 }
-.header_center address
+.header_center div
 {
     color: grey;
     position:relative;
@@ -23,9 +23,14 @@
 {
     position: absolute;
 }
+.combined_section_1_and_2
+{
+    position: relative;
+}
 /*section 1 starts*/
 .section_1_lhs
 {
+    position: relative;
     background-color:#2889c167;
 }
 .session_1_text
