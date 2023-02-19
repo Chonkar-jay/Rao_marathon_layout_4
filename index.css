@@ -1,0 +1,81 @@
+/*header starts*/
+.header_lhs
+{
+    color: white;
+    background-color: rgb(41, 40, 40);
+}
+.header_center h5,address
+{
+    padding-left: 10%;
+}
+.header_center address
+{
+    color: grey;
+    position:relative;
+    font-size: 100%;
+}
+.header_rhs
+{
+    background-color: rgb(245, 245, 245);
+}
+/*header ends*/
+.combined_section_1_and_2 img
+{
+    position: absolute;
+}
+/*section 1 starts*/
+.section_1_lhs
+{
+    background-color:#2889c167;
+}
+.session_1_text
+{
+    color: white;
+    font-size: 200%;
+    font-weight: 800;
+    padding-left: 10%;
+}
+.session_1_text hr
+{
+    padding: 1%;
+    width: 14%;  
+    background-color: white;
+    margin-left: 0%;
+}
+.section_rhs
+{
+    background-color: #c43a7465;
+}
+/*section 1 ends*/
+/*section 2 starts*/
+
+.section_2_lhs
+{
+    background-color:#2889c167;
+    padding-left: 10%;
+}
+.section_2_lhs h2
+{
+    color: white;
+    position: absolute;
+    opacity: 50%;
+    padding-left:8.5%;
+    font-size: 1000%;
+    font-weight: 1000;
+}
+.section_2_lhs h4
+{
+    color: white;
+    position: relative;
+    padding-top: 7%;
+    padding-left:9%;
+    font-size: 550%;
+    font-weight: 700;
+}
+.section_2_lhs strong
+{
+    color:#c43a7465;
+}
+/*section 2 ends*/
+/*section 3 starts*/
+/*section 3 ends*/
