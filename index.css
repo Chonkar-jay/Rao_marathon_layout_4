@@ -4,17 +4,18 @@
     text-align: center;
     background-color: rgb(41, 40, 40);
 }
-.header_lhs div
-{
-    color: white;
-    margin-top: -19%;
-    font-weight: 900;
-    font-size: 140%;
-    opacity: 75%;
-}
-.header_center h5,p
+.header_center h5
 {
     padding-top: 5%;
+    padding-left: 10%;
+}
+.address_1st_line
+{
+    font-size: 195%;
+}
+.header_center p
+{
+    margin-bottom: 0.1%;
     padding-left: 10%;
 }
 .header_center div
@@ -45,6 +46,7 @@
 }
 .session_1_text
 {
+    font-family: Century Gothic;
     color: white;
     font-size: 200%;
     font-weight: 800;
@@ -66,6 +68,7 @@
 
 .section_2_lhs
 {
+    font-family: Tw Cen MT;
     background-color:#2889c167;
     padding-left: 9%;
     padding-bottom: 5%;
@@ -76,7 +79,7 @@
     position: absolute;
     opacity: 50%;
     padding-left:8.5%;
-    font-size: 1000%;
+    font-size: 1200%;
     font-weight: 1000;
 }
 .section_2_lhs h4
@@ -85,7 +88,8 @@
     position: relative;
     padding-top: 7%;
     padding-left:9%;
-    font-size: 550%;
+    font-size: 650%;
+    line-height: 125%;
     font-weight: 700;
 }
 .section_2_lhs strong
@@ -98,19 +102,23 @@
 {
     background-color: rgb(245, 245, 245) ;
     padding-left: 9%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    font-family: Tw Cen MT;
 }
 .section_3 span
 {
-    font-size: 130%;
+    font-size: 180%;
     line-height: 105%;
     border-left: solid rgba(235, 36, 119, 0.719);
     height: 3em;
-    margin-top: 4%;
+    
     border-width: 0.5em;
 }   
 .section_3 p
 {
-    line-height: 105%;
+   font-size: 130%;
+    line-height: 106%;
     padding-right: 7%;
     text-align: justify;
     padding-left:3%;
@@ -121,16 +129,19 @@
     padding-top: 4%;
     padding-left: 8%;
     padding-right:6%;
+    font-family: Tw Cen MT;
 }
 .section_4 h5
 {
     line-height: 105%;
     font-weight: 1000;
+    font-size: 200%;
 }
 .section_4
 {
     margin-bottom: 3%;
     text-align: justify;
+    font-size: 110%;
 }
 .subheading
 {
@@ -153,7 +164,6 @@
 .footer
 {
     /* margin-top: 7%;
-
     padding-top: 7%;
     padding-left: 7%;
     padding-right: 7%;
@@ -191,7 +201,7 @@
 }
 .footer_third_logo svg
 {
-    
+
 }
 .footer_third_logo strong
 {
@@ -208,4 +218,4 @@
 .footer_fourth_logo strong
 {
     font-size: 130%;
-} 
+}
